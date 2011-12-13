@@ -1,4 +1,4 @@
 Autograph.js
 ============
 
-Artistic Javascript signatures.
+Artistic JavaScript signatures.
